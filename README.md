@@ -1,6 +1,7 @@
 
-## More Info
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+## More Info
 &nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: ricardosv46@gmail.com <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Richxdd)
@@ -35,6 +36,8 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+        <i class="devicon-github-original"></i>
+
     
 </p>
 
