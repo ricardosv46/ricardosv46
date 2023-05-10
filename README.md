@@ -30,12 +30,8 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
 ## <b>:desktop_computer:&nbsp;&nbsp;Tecnologías:</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;:black_heart: &nbsp;&nbsp;
 <p align="left">
-        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-        </a>
-        <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         </a>
@@ -55,10 +51,10 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
         </a>
         <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"  />
-
         </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40"  />
+
     
     
 </p>
