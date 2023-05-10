@@ -38,7 +38,7 @@ offer the best digital experience to the users.<br><br>
 
 <p align="center">
     <a href="https://github.com/JhoanaZF">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=330867&center=true&width=600&lines=Desarrollador+Front-End+|+Desarrollador+Back-End" alt="Jhoana Zamora" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=330867&center=true&width=600&lines=Desarrollador+Full stack" alt="Jhoana Zamora" />
     </a>
 </p>
 
@@ -51,7 +51,7 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
 -   [Mi Email](https://mail.google.com/mail/u/0/#inbox)
 -   [Mi LinkedIn](https://www.linkedin.com/in/jhoana-zamora-8b6595204/)
 
-<h3 align="left">Tecnologías:</h3>
+<h1 align="left">Tecnologías:</h1>
 ## <b>:desktop_computer:&nbsp;&nbsp;Tecnologías:</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;:black_heart: &nbsp;&nbsp;
 <p align="left">
