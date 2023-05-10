@@ -1,15 +1,3 @@
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-## More Info
-&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: ricardosv46@gmail.com <br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Richxdd)
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardosv46/)
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ricardosv46/)
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ricardosv.netlify.app)
-
-
 <h1 align="center">👨‍💻 Hola, soy Ricardo Solis 👨‍💻</h1>
 
 <p align="center">
@@ -25,7 +13,7 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
 <h3 align="left">Contáctame:</h3>
 
 -   [Mi Email](https://mail.google.com/mail/u/0/#inbox)
--   [Mi LinkedIn](https://www.linkedin.com/in/jhoana-zamora-8b6595204/)
+-   [Mi LinkedIn](https://www.linkedin.com/in/ricardosv46/)
 
 <h1 align="left">:desktop_computer:&nbsp;&nbsp;Tecnologías:</h1>
 <p align="left">
@@ -36,15 +24,18 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-        <i class="devicon-github-original"></i>
-
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
     
 </p>
 
-<h3 align="left">Habilidades:</h3>
+<h1 align="left">Habilidades:</h1>
 
--   Gestión de proyectos
 -   Compromiso
 -   Creatividad
--   Trabajo en equipo
+-   Responsable 
+-   Trabajo en equipo 
+-   Autodidacta 
+-   Autonomía  
+-   Resolutivo
 
