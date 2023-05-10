@@ -34,20 +34,28 @@ offer the best digital experience to the users.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ricardosv.netlify.app)
 
 
-<h1 align="center">👩‍💼 Hola, soy Jhoana Zamora 👩‍💻</h1>
+<h1 align="center">👨‍💻 Hola, soy Ricardo Solis 👨‍💻</h1>
 
 <p align="center">
     <a href="https://github.com/JhoanaZF">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=330867&center=true&width=600&lines=Desarrolladora+Front-End+|+Administradora" alt="Jhoana Zamora" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=330867&center=true&width=600&lines=Desarrollador+Front-End+|+Desarrollador+Back-End" alt="Jhoana Zamora" />
     </a>
 </p>
 
 <p align="center">
-Este 2023, decidí reinventar mi vida sumergiéndome en el mundo del desarrollo web. Siempre he sentido un gran interés por
-involucrarme en proyectos que impulsen el crecimiento en mi entorno y he sido disciplinada en cada colaboración en la que he participado. Mi compromiso ha sido fundamental a lo largo de mi vida
-para enfrentar y superar los retos personales y laborales que se me han presentado. Actualmente, quiero seguir creciendo en tecnología creando soluciones digitales impactantes y novedosas que
-ofrezcan una gran experiencia al usuario y contribuyan al crecimiento y desarrollo en mi entorno. Mi meta es complementar ambas carreras y convertirme en una Technology Project Manager. Me
-gustaría liderar proyectos tecnológicos, incluyendo el desarrollo web y supervisar a un equipo de desarrolladores para garantizar que los proyectos se completen con exito y a tiempo.
+Soy un desarrollador frontend apasionado por crear experiencias web elegantes y eficientes. Tengo experiencia en el desarrollo de sitios web y aplicaciones web utilizando HTML, CSS y JavaScript. Además, he trabajado con tecnologías como React y Next.js para crear aplicaciones web más complejas con una experiencia de usuario fluida.
+
+Recientemente, he estado trabajando con TypeScript y TailwindCSS para crear aplicaciones web escalables y personalizables. También tengo experiencia en la integración de GraphQL a través de Apollo GraphQL y en la implementación de la gestión de estados utilizando Redux.
+
+Además de trabajar con aplicaciones web, también he desarrollado aplicaciones móviles utilizando React Native. Me gusta mantener mis proyectos organizados y actualizados mediante el uso de Git y GitHub.
+
+También tengo habilidades en el desarrollo de backend, utilizando tecnologías como Express y Node.js para crear APIs y servicios web escalables y eficientes. He trabajado con bases de datos NoSQL como MongoDB y con TypeORM para administrar el acceso a datos y la implementación de GraphQL. Además, tengo experiencia en la autenticación de usuarios utilizando JSON Web Tokens (JWT).
+
+Adicionalmente, tengo experiencia en el consumo de APIs y APIs GraphQL, lo que me permite traer información desde el backend a mi aplicación web de manera efectiva y eficiente.
+
+Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades, y disfruto trabajando en equipo para crear soluciones web de alta calidad. Estoy comprometido a mantenerme actualizado con las últimas tendencias y tecnologías en el desarrollo web.
+
+Si estás buscando a alguien que pueda ayudarte a desarrollar una aplicación web o móvil completa, desde el frontend hasta el backend, ¡no dudes en contactarme!
 </p>
 
 <h3 align="left">Contáctame:</h3>
@@ -56,6 +64,7 @@ gustaría liderar proyectos tecnológicos, incluyendo el desarrollo web y superv
 -   [Mi LinkedIn](https://www.linkedin.com/in/jhoana-zamora-8b6595204/)
 
 <h3 align="left">Tecnologías:</h3>
+## <b>:desktop_computer:&nbsp;&nbsp;Tecnologías:</b><br>
 <p align="left">
         <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
