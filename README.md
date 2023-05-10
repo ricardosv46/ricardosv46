@@ -10,7 +10,7 @@
 Soy un desarrollador frontend apasionado por crear experiencias web elegantes y eficientes. Tengo experiencia en el desarrollo de sitios web y aplicaciones web utilizando HTML, CSS y JavaScript, así como en tecnologías como React, Next.js, TypeScript y TailwindCSS para crear aplicaciones web escalables y personalizables con una experiencia de usuario fluida. Además, tengo habilidades en el desarrollo de backend utilizando Express, Node.js y bases de datos NoSQL como MongoDB. También tengo experiencia en la autenticación de usuarios utilizando JSON Web Tokens (JWT) y la gestión de estados utilizando Redux. Además, tengo habilidades en el consumo de APIs y GraphQL, lo que me permite traer información desde el backend a mi aplicación web de manera efectiva y eficiente. Me gusta mantener mis proyectos organizados y actualizados mediante el uso de Git y GitHub. Estoy comprometido a mantenerme actualizado con las últimas tendencias y tecnologías en el desarrollo web y disfruto trabajando en equipo para crear soluciones web de alta calidad. Si necesitas ayuda en el desarrollo de una aplicación web o móvil completa, desde el frontend hasta el backend, ¡no dudes en contactarme!
 </p>
 
-<h3 align="left">Contáctame:</h3>
+<h1 align="left">Contáctame:</h1>
 
 -   [Mi Email](mailto:ricardosv46@gmail.com)
 -   [Mi LinkedIn](https://www.linkedin.com/in/ricardosv46/)
