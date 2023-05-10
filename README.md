@@ -43,19 +43,7 @@ offer the best digital experience to the users.<br><br>
 </p>
 
 <p align="center">
-Soy un desarrollador frontend apasionado por crear experiencias web elegantes y eficientes. Tengo experiencia en el desarrollo de sitios web y aplicaciones web utilizando HTML, CSS y JavaScript. Además, he trabajado con tecnologías como React y Next.js para crear aplicaciones web más complejas con una experiencia de usuario fluida.
-
-Recientemente, he estado trabajando con TypeScript y TailwindCSS para crear aplicaciones web escalables y personalizables. También tengo experiencia en la integración de GraphQL a través de Apollo GraphQL y en la implementación de la gestión de estados utilizando Redux.
-
-Además de trabajar con aplicaciones web, también he desarrollado aplicaciones móviles utilizando React Native. Me gusta mantener mis proyectos organizados y actualizados mediante el uso de Git y GitHub.
-
-También tengo habilidades en el desarrollo de backend, utilizando tecnologías como Express y Node.js para crear APIs y servicios web escalables y eficientes. He trabajado con bases de datos NoSQL como MongoDB y con TypeORM para administrar el acceso a datos y la implementación de GraphQL. Además, tengo experiencia en la autenticación de usuarios utilizando JSON Web Tokens (JWT).
-
-Adicionalmente, tengo experiencia en el consumo de APIs y APIs GraphQL, lo que me permite traer información desde el backend a mi aplicación web de manera efectiva y eficiente.
-
-Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades, y disfruto trabajando en equipo para crear soluciones web de alta calidad. Estoy comprometido a mantenerme actualizado con las últimas tendencias y tecnologías en el desarrollo web.
-
-Si estás buscando a alguien que pueda ayudarte a desarrollar una aplicación web o móvil completa, desde el frontend hasta el backend, ¡no dudes en contactarme!
+Soy un desarrollador frontend apasionado por crear experiencias web elegantes y eficientes. Tengo experiencia en el desarrollo de sitios web y aplicaciones web utilizando HTML, CSS y JavaScript, así como en tecnologías como React, Next.js, TypeScript y TailwindCSS para crear aplicaciones web escalables y personalizables con una experiencia de usuario fluida. Además, tengo habilidades en el desarrollo de backend utilizando Express, Node.js y bases de datos NoSQL como MongoDB. También tengo experiencia en la autenticación de usuarios utilizando JSON Web Tokens (JWT) y la gestión de estados utilizando Redux. Además, tengo habilidades en el consumo de APIs y GraphQL, lo que me permite traer información desde el backend a mi aplicación web de manera efectiva y eficiente. Me gusta mantener mis proyectos organizados y actualizados mediante el uso de Git y GitHub. Estoy comprometido a mantenerme actualizado con las últimas tendencias y tecnologías en el desarrollo web y disfruto trabajando en equipo para crear soluciones web de alta calidad. Si necesitas ayuda en el desarrollo de una aplicación web o móvil completa, desde el frontend hasta el backend, ¡no dudes en contactarme!
 </p>
 
 <h3 align="left">Contáctame:</h3>
@@ -65,6 +53,7 @@ Si estás buscando a alguien que pueda ayudarte a desarrollar una aplicación we
 
 <h3 align="left">Tecnologías:</h3>
 ## <b>:desktop_computer:&nbsp;&nbsp;Tecnologías:</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;:black_heart: &nbsp;&nbsp;
 <p align="left">
         <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
