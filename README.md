@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/JhoanaZF">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=90EE90&center=true&width=600&lines=Desarrollador+Full stack" alt="Jhoana Zamora" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=90EE90&center=true&width=600&lines=Desarrollador+Full Stack" alt="Ricardo Solis" />
     </a>
 </p>
 
@@ -14,6 +14,7 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
 
 -   [Mi Email](mailto:ricardosv46@gmail.com)
 -   [Mi LinkedIn](https://www.linkedin.com/in/ricardosv46/)
+-   [Mi Portafolio](https://ricardosv.netlify.app/)
 
 <h1 align="left">:desktop_computer:&nbsp;&nbsp;Tecnologías:</h1>
 <p align="left">
