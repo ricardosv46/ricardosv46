@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/JhoanaZF">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=330867&center=true&width=600&lines=Desarrollador+Full stack" alt="Jhoana Zamora" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=90EE90&center=true&width=600&lines=Desarrollador+Full stack" alt="Jhoana Zamora" />
     </a>
 </p>
 
@@ -26,6 +26,7 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
@@ -33,6 +34,10 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+
+
 </p>
 
 <h1 align="left">Habilidades:</h1>
