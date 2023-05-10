@@ -56,6 +56,8 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
         </a>
         <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"  />
+
         </a>
     
     
