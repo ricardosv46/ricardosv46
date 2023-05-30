@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hola, soy Ricardo Solis 👨‍💻</h1>
 
 <p align="center">
-    <a href="https://github.com/JhoanaZF">
+    <a href="https://github.com/ricardosv46">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=90EE90&center=true&width=600&lines=Desarrollador+Full Stack" alt="Ricardo Solis" />
     </a>
 </p>
