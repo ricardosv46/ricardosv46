@@ -1,11 +1,5 @@
 <h1 align="center">👨‍💻 Hola, soy Ricardo Solis 👨‍💻</h1>
 
-    <p align="center">
-        <a href="https://github.com/ricardosv46">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=90EE90&center=true&width=600&lines=Desarrollador+Full Stack" alt="Ricardo Solis" />
-        </a>
-    </p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Desarrollador-Full%20Stack-90EE90?style=for-the-badge&logo=github" alt="Desarrollador Full Stack" />
 </p>
