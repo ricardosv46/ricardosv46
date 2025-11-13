@@ -11,8 +11,8 @@ Soy un desarrollador frontend apasionado por crear experiencias web elegantes y 
 <h1 align="left">Contáctame:</h1>
 
 -   [Mi Email](mailto:ricardosv46@gmail.com)
--   [Mi LinkedIn](https://www.linkedin.com/in/ricardosv46/)
--   [Mi Portafolio](https://ricardosv.netlify.app/)
+-   [Mi LinkedIn](https://www.linkedin.com/in/ricardosv46)
+-   [Mi Portafolio](https://ricardosv.com)
 
 <h1 align="left">:desktop_computer:&nbsp;&nbsp;Tecnologías:</h1>
 <p align="left">
